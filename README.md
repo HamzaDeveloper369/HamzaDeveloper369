@@ -1,25 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
 
 <h3 align="center">
-  🇵🇰 Frontend Developer | 💻 CS Student | 🚀 Web Enthusiast
+   Frontend Developer | 💻 CS Student | 🚀 Web Enthusiast
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+Learner;Web+Development+Basics;Always+Learning+New+Things" />
 </p>
-
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-00A3FF?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-0D1117?style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzadeveloper369&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
-
-
-
 
 ---
 
@@ -81,52 +68,72 @@
   📱 WhatsApp: <b>+92 320 0832589</b>
 </p>
 
+
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00A3FF&center=true&vCenter=true&width=500&lines=My+Technical+Stack;Frontend+%7C+Backend+%7C+Tools;Clean+Code+%7C+Problem+Solving" />
-</p>
+---
+
+**Frontend Development:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### ⚡ Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+**Backend Development:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
 
-### 🔧 Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+**Programming Languages:**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js" />
-</p>
+**Design & Tools:**  
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🎨 Design & Tools
+## 📊 GitHub Stats
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,figma,git,github,vscode" />
+  <img src="https://github-readme-stats-ten-neon-28.vercel.app//api?username=HamzaDeveloper369&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
+  <img src="https://github-readme-stats-ten-neon-28.vercel.app//api/top-langs/?username=HamzaDeveloper369&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000&layout=compact" height="150"/>
+</p>  
+ ## Profile Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/HamzaDeveloper369?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/HamzaDeveloper369?label=Stars&style=social" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzadeveloper369&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
-
 <p align="center">
-  <b>🚀 Always learning new technologies and improving my skills</b>
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=HamzaDeveloper369&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" height="300" width="650"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -153,10 +160,10 @@
 ## 💼 Hire Me / Collaboration
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Open+for+Opportunities;Freelance+Work+Available;Collaborations+Welcome;Let's+Build+Something+Amazing+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Open+for+Opportunities;Frontend+Work+Available;Collaborations+Welcome;Let's+Build+Something+Amazing+🚀" />
 </p>
 
-- 💻 Open to **freelance projects**
+- 💻 Open to **frontend projects**
 - 🤝 Available for **collaborations & open-source work**
 - 🚀 Interested in **full-stack development roles**
 - 📩 Email: **alihamzasaleem118@gmail.com**
@@ -166,20 +173,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzadeveloper369&layout=compact" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzadeveloper369" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzadeveloper369" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 </p>
